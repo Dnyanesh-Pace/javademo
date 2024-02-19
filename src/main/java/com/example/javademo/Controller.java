@@ -9,6 +9,6 @@ public class Controller {
     @GetMapping("/")
     private String index()
     {
-        return "Hello there";
+        return "Hello there everyone";
     }
 }
